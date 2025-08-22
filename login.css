@@ -1,0 +1,35 @@
+#Contact{
+  /*  background-color: rgb(23, 212, 23);*/
+    color: black;
+      padding: 40px;
+      position: relative;
+      width: 380px;
+      border-radius: 20px;
+      backdrop-filter: blur(15px);
+      border: 2px solid rgba(255, 255, 255, 0.5);
+      box-shadow: 1 25px 45px rgba(0, 0, 0, 0.5);
+      overflow: hidden;
+      border-radius: 30px;
+      /*background: no-repeat;*/
+}
+body{
+    display: flex;
+    justify-content: center;
+    background: url(organic-plant-vegetables.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+h1{
+    display: flex;
+    justify-content: center;
+}
+
+    
+
+.submits{
+    background-color: blanchedalmond;
+    padding: 5px;
+    /*border: 2px solid red ;*/
+    border-radius: 10px;
+    margin: 3px;
+}

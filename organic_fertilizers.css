@@ -1,0 +1,40 @@
+body {
+    background: linear-gradient(green,rgb(52, 218, 93));
+}
+
+
+.organic{
+    display:flex;
+    gap: 50px;
+}
+.list{
+    margin-top: 200px;
+}
+  .navbar{
+    display: flex;
+
+    background-color:bisque ;
+    justify-content:center ;
+    color: greenyellow;
+    padding:5px;
+    gap: 100px;
+   border-radius: 20px;
+   justify-content: space-around;
+   border: green solid;
+   position: fixed;
+  }
+
+.fish-tonic{
+background-color: red;
+padding: 2px;
+border: 10px solid black;
+border-radius: 10px ;
+width:fit-content;    
+}
+.fish{
+  display: flex;
+
+}
+.list2{
+  margin: auto;
+}

@@ -1,0 +1,48 @@
+ body{
+        background: linear-gradient(45deg,#b16868,#64c0ba);
+       
+        background-size: cover;
+        width:100% ;
+        height: 100vh;
+        
+        }
+    .navbar a
+    {
+        color: green;
+        text-decoration: none;
+      
+
+    }
+    .navbar{
+        border: 3px yellow solid ;
+    
+        border-radius: 20px;
+        display: flex;
+        justify-content: space-around;
+
+
+    }
+    .Fertilizers{
+        display: grid ;
+
+        grid-template-columns:1fr 2fr 1fr ;
+        grid-template-rows:10px ;
+    }
+    .items{
+        width:500px ;
+height: 100px;
+border:1px solid black;
+background-color: rgb(255, 255, 255);
+padding: 20px;
+border-radius: 30px;
+
+    }
+    .items img {
+width:500px ;
+height: 500px;
+margin-top: 50px;
+
+background-color: rgb(255, 255, 255);
+padding: 20px;
+border-radius: 30px;
+    }
